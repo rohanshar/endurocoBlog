@@ -1,11 +1,12 @@
 ---
 title: "Ideal cadence"
-excerpt: "Ideal cadence
-            What is the ideal cadence? One of the most written about subjects in cycling is the cadence. One of the reasons is that nowadays there is a very wide range…"
+excerpt: >
+  Ideal cadence
+              What is the ideal cadence? One of the most written about subjects in cycling is the cadence. One of the reasons is that nowadays there is a very wide range…
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-05T16:06:01.299Z"
+date: "2023-12-17T01:45:13.584Z"
 author:
-  name: "JJ Kasper"
+  name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"

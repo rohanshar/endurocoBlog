@@ -1,11 +1,12 @@
 ---
 title: "What is Critical Power?"
-excerpt: "What is Critical Power?
-            You may have already come across the term Critical Power (CP) in relation to the Threshold Power. Sometimes functional threshold power (FTP) and Critical Power are "
+excerpt: >
+  What is Critical Power?
+              You may have already come across the term Critical Power (CP) in relation to the Threshold Power. Sometimes functional threshold power (FTP) and Critical Power are
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-05T16:06:01.296Z"
+date: "2023-11-14T22:06:52.071Z"
 author:
-  name: "JJ Kasper"
+  name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
