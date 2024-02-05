@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "fs/promises";
+import { readFile, writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 
 const sourcePath = join("..", "joincc.json");
@@ -6,11 +6,16 @@ const targetDir = join("..", "_posts");
 
 async function createMarkdownFiles() {
   try {
+    // Ensure the target directory exists
+    await mkdir(targetDir, { recursive: true });
+
     const data = await readFile(sourcePath, { encoding: "utf8" });
     const articles = JSON.parse(data);
 
     for (const article of articles) {
-      const fileName = `${article.heading.replace(/\s+/g, "-")}.md`;
+      const fileName = `${article.heading
+        .replace(/\s+/g, "-")
+        .replace(/[^a-zA-Z0-9-]/g, "")}.md`; // Also sanitize the file name
       const filePath = join(targetDir, fileName);
       const content = `---
 title: "${article.heading}"
