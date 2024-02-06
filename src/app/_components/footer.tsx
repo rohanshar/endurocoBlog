@@ -2,9 +2,8 @@ import React from "react";
 import Container from "@/app/_components/container";
 import InstagramIcon from '@mui/icons-material/Instagram';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import Link from 'next/link';
 import Image from 'next/image';
-// import logofooter from '../public/logo_orange.png'; // Adjust path as needed, assuming the image is in the public directory
+import Link from "next/link";
 
 export function Footer() {
   return (
@@ -12,26 +11,30 @@ export function Footer() {
       <Container>
         <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: "20px" }}>
           <div>
-            {/* Uncomment and correct the path to use the Image component
-            <Image src={logofooter} alt="footer logo" width={120} height={60} style={{ marginBottom: "10px" }} />
-            */}
+            <Image src="/assets/logo_orange.png" alt="footer logo" width={120} height={60} priority />
             <p>AI-driven real-time coaching.</p>
           </div>
           <div>
             <h6>Tools</h6>
-            <Link href="/cyclingevents" passHref><InstagramIcon style={{ color: "white", display: "block", marginBottom: "5px" }} /></Link>
-            <Link href="/bikefit" passHref><TwitterIcon style={{ color: "white", display: "block", marginBottom: "5px" }} /></Link>
+            {/* For internal links, use Link without an <a> tag around the icon. */}
+            <Link href="/cyclingevents" passHref>
+              <InstagramIcon style={{ color: "white", cursor: "pointer", display: "block", marginBottom: "5px" }} />
+            </Link>
+            <Link href="/bikefit" passHref>
+              <TwitterIcon style={{ color: "white", cursor: "pointer", display: "block", marginBottom: "5px" }} />
+            </Link>
           </div>
           <div>
             <h6>About Us</h6>
-            <Link href="https://forum.enduroco.in" passHref><p style={{ color: "white", marginBottom: "5px" }}>Forum</p></Link>
-            <Link href="https://servicestatus.enduroco.in" passHref><p style={{ color: "white", marginBottom: "5px" }}>Service Status</p></Link>
-            <Link href="/privacypolicy" passHref><p style={{ color: "white", marginBottom: "5px" }}>Privacy Policy</p></Link>
+            {/* For external links, use <a> directly without Link. */}
+            <a href="https://forum.enduroco.in" style={{ color: "white", marginBottom: "5px" }}>Forum</a>
+            <a href="https://servicestatus.enduroco.in" style={{ color: "white", marginBottom: "5px" }}>Service Status</a>
+            <a href="/privacypolicy" style={{ color: "white", marginBottom: "5px" }}>Privacy Policy</a>
           </div>
           <p>Follow us on:</p>
           <div>
-            <Link href="https://www.instagram.com/enduroco_in/" passHref><InstagramIcon sx={{ color: "white", marginRight: "10px" }} /></Link>
-            <Link href="https://twitter.com/enduroco_ai/" passHref><TwitterIcon sx={{ color: "white" }} /></Link>
+            <a href="https://www.instagram.com/enduroco_in/" style={{ color: "white", marginRight: "10px" }}><InstagramIcon /></a>
+            <a href="https://twitter.com/enduroco_ai/" style={{ color: "white" }}><TwitterIcon /></a>
           </div>
           <p>© 2024 EnduroCo</p>
         </div>
