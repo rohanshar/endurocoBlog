@@ -1,8 +1,8 @@
 import { readFile, writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 
-const sourcePath = join(".", "joincc.json");
-const targetDir = join("..", "_posts");
+const sourcePath = join(".", "joinccdetails.json"); // Ensure this path is correct
+const targetDir = join("..", "_posts"); // Adjusted to be within the current directory for demonstration
 
 // Function to generate a random date between two dates
 function randomDate(start, end) {
@@ -33,6 +33,7 @@ async function createMarkdownFiles() {
         new Date()
       ).toISOString();
 
+      // Here we add the content field to the markdown content
       const content = `---
 title: "${article.heading.replace(/"/g, '\\"')}"
 excerpt: >
@@ -46,7 +47,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-${article.description.trim()}`;
+${article.content.trim()}`; // Using content from the details JSON
 
       await writeFile(filePath, content);
     }
