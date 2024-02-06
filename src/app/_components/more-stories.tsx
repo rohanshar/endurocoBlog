@@ -7,8 +7,10 @@ type Props = {
 
 export function MoreStories({ posts }: Props) {
   return (
-    <section>
-      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32 mb-32">
+    <section className="px-4 py-8">
+    <div className="max-w-screen-xl mx-auto">
+      <h2 className="text-3xl font-bold text-center mb-12">Articles</h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-x-6 lg:gap-x-12 gap-y-12 md:gap-y-16 mb-32">
         {posts.map((post) => (
           <PostPreview
             key={post.slug}
@@ -21,6 +23,8 @@ export function MoreStories({ posts }: Props) {
           />
         ))}
       </div>
-    </section>
+    </div>
+  </section>
+  
   );
 }
