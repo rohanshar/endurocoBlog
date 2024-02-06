@@ -3,7 +3,7 @@ title: "How to do interval training properly"
 excerpt: >
   Key of getting better with cycling, is to do the interval training properly. It's more complicated than it seems. Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-03T15:45:23.308Z"
+date: "2023-11-17T19:08:35.797Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

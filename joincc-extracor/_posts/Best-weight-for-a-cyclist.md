@@ -3,7 +3,7 @@ title: "Best weight for a cyclist?"
 excerpt: >
   What are the downsides of an extreme low weight as a cyclist. And how much does 2 kilo less helps with cycling in the mountains. Read it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-17T14:46:27.001Z"
+date: "2023-12-30T19:06:49.054Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

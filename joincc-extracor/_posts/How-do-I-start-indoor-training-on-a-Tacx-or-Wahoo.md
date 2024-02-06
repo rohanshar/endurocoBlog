@@ -3,7 +3,7 @@ title: "How do I start indoor training on a Tacx or Wahoo?"
 excerpt: >
   Just bought a new Tacx or Wahoo but no idea where to start with indoor training? Here Tips & Tricks to get you started.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-27T07:55:55.148Z"
+date: "2024-01-01T19:02:09.924Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

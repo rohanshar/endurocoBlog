@@ -3,7 +3,7 @@ title: "Marginal gains"
 excerpt: >
   Every cyclist is looking for shortcuts: marginal gains that cost little effort or money, but do improve performance.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-19T16:53:04.598Z"
+date: "2023-12-02T09:55:08.767Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

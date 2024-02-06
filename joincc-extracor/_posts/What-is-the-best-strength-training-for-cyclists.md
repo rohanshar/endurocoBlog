@@ -3,7 +3,7 @@ title: "What is the best strength training for cyclists?"
 excerpt: >
   There are various forms of strength training, but what does a cyclist need? Read this article and find out what strength exercises you need!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-29T18:42:47.333Z"
+date: "2023-12-09T22:33:09.781Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

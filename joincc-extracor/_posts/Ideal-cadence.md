@@ -3,7 +3,7 @@ title: "Ideal cadence"
 excerpt: >
   Finding the right cadence is quite difficult, but can make the difference. When is a high cadence or a low cadence ideal? Read it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-06T13:36:10.535Z"
+date: "2023-11-16T00:16:52.248Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

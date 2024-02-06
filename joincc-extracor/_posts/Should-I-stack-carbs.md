@@ -3,7 +3,7 @@ title: "Should I stack carbs?"
 excerpt: >
   Should I stack carbohydrates before a heavy cycling challenge? When does this make sense and how much should I eat. Read all about it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-09T02:33:02.188Z"
+date: "2024-01-13T03:42:39.660Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

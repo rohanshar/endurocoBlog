@@ -3,7 +3,7 @@ title: "Seated vs standing climbing"
 excerpt: >
   One of the hotter topics in cycling is when to stand on the pedals and when you stay seated while climbing.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-17T05:31:29.459Z"
+date: "2024-02-03T08:47:04.918Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "The effects of altitude training"
 excerpt: >
   What is the effects of altitude training and how big is the performance enhancement? And what does it bring you as an amateur cyclist?
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-06T07:44:38.224Z"
+date: "2023-11-11T01:01:51.896Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -1,9 +1,9 @@
 ---
-title: "How to improve your FTP"
+title: "What is FTP?"
 excerpt: >
   To get better as a cyclist, you need to improve your FTP. But what does that mean exactly and how do I do this. Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-24T17:19:38.538Z"
+date: "2023-12-25T14:33:38.368Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

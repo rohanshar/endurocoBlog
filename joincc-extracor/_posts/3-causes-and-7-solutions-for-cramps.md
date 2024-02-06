@@ -3,7 +3,7 @@ title: "3 causes and 7 solutions for cramps"
 excerpt: >
   What causes cramp while cycling? And even more important what are the 7 solutions against it? Read all about it in this article.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-18T21:24:44.071Z"
+date: "2023-12-10T10:01:00.395Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

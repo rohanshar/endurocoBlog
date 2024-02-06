@@ -3,7 +3,7 @@ title: "How much rest should you take after the season?"
 excerpt: >
   Taking a break and rest after a long season is vital, but what is too long. How fast will your build up stamina fade away? Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-14T19:53:30.158Z"
+date: "2024-01-01T14:43:12.879Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "The best cycling books"
 excerpt: >
   A great way to increase your knowledge of the world of cycling is to read the best books about cycling. Enjoy the recommended books!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-18T14:01:25.016Z"
+date: "2023-12-23T13:45:23.070Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

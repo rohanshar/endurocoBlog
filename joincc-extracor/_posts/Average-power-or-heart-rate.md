@@ -3,7 +3,7 @@ title: "Average power or heart rate?"
 excerpt: >
   A question that comes up frequently is what power or heart rate you should focus on in your intervals of the JOIN Cycling workouts.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-03T06:34:53.365Z"
+date: "2023-11-16T16:52:13.324Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

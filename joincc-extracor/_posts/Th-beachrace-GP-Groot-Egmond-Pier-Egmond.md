@@ -3,7 +3,7 @@ title: "Thé beachrace, GP Groot Egmond-Pier-Egmond"
 excerpt: >
   GP Groot Egmond-Pier-Egmond is the beachrace of the year where (former) pro riders and amateurs compete together.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-04T04:48:28.834Z"
+date: "2024-01-27T16:52:23.388Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

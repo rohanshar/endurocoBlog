@@ -3,7 +3,7 @@ title: "High Intensity Training in the Off Season"
 excerpt: >
   Why you should do HIT training with cycling and not only long endurance rides in the winter months. Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-28T21:36:50.805Z"
+date: "2023-12-27T21:14:22.965Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

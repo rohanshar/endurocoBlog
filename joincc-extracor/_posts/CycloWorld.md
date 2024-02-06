@@ -3,7 +3,7 @@ title: "CycloWorld"
 excerpt: >
   Cycling enthusiasts their goal is to get a little better every ride. And that's exactly where JOIN and CycloWorld found each other.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-04T15:15:14.898Z"
+date: "2023-11-23T20:53:33.611Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

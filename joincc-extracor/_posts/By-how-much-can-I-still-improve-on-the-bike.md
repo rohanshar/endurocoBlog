@@ -3,7 +3,7 @@ title: "By how much can I still improve on the bike?"
 excerpt: >
   What is a fair and realistic estimation of how much you can improve your cycling performance? Read all about it.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-27T06:42:46.892Z"
+date: "2023-12-27T08:53:06.986Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "Training in ERG mode on your indoor trainer"
 excerpt: >
   Indoor training on the ERG mode can be really beneficial as a cyclist if you do it properly. Read all about it here how to do that!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-21T12:03:12.578Z"
+date: "2024-01-09T18:18:09.517Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

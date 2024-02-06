@@ -3,7 +3,7 @@ title: "Cycling in hot weather"
 excerpt: >
   Cycling in hot weather is not without risks. Read these tips about riding your bike in hot weather before you get on your bike!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-01T11:12:25.880Z"
+date: "2023-11-28T18:51:34.977Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

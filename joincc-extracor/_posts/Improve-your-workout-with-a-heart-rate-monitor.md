@@ -3,7 +3,7 @@ title: "Improve your workout with a heart rate monitor"
 excerpt: >
   In this cycling article we explain what you need to know when training with a heart rate monitor as a cyclist. Read all about it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-22T22:46:13.360Z"
+date: "2023-12-29T14:21:15.574Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "Heart rate decoupling."
 excerpt: >
   Heart rate decoupling is an interesting measure to quantify the fatigue during a training or race. But how is it calculated and what is good?
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-02T21:19:13.008Z"
+date: "2024-01-24T04:09:21.382Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

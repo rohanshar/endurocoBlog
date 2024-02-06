@@ -3,7 +3,7 @@ title: "Calculating your FTP"
 excerpt: >
   Calculate your own FTP based on your speed, without a FTP test or powermeter. Getting better is all about timing.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-04T17:23:07.442Z"
+date: "2024-01-09T23:53:13.648Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

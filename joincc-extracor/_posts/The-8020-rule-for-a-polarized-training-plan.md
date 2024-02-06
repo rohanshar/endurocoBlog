@@ -3,7 +3,7 @@ title: "The 80/20 rule for a polarized training plan"
 excerpt: >
   A good polarized training schedule contains a combination of different types of workouts We call this the 80/20 rule.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-06T02:36:05.365Z"
+date: "2023-12-29T18:23:28.747Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "How do you measure your endurance capabilities?"
 excerpt: >
   Good endurance capabilities is key for most cycling performances. But how can you measure this and what is aerobic decoupling. Read it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-17T00:50:14.266Z"
+date: "2023-12-26T00:39:56.985Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

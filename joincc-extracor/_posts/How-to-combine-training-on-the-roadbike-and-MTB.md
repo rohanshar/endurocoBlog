@@ -3,7 +3,7 @@ title: "How to combine training on the roadbike and MTB?"
 excerpt: >
   Is it possible to include riding the MTB and roadbike in one training plan? Use the powermeter, heart rate and RPE appropriately!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-23T16:38:42.451Z"
+date: "2024-01-28T05:56:14.208Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

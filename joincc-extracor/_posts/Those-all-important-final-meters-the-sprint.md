@@ -3,7 +3,7 @@ title: "Those all-important final meters: the sprint."
 excerpt: >
   Many cycling races end in a sprint. Sprinters maybe born, but you can train a proper sprint. Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-22T12:23:13.880Z"
+date: "2023-12-19T12:38:46.513Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

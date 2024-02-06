@@ -3,7 +3,7 @@ title: "How high should my Intensity Factor be?"
 excerpt: >
   What is intensity factor and how to use it in your training plan as a cyclist. This article explains everything you need to know!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-05T06:49:14.185Z"
+date: "2024-01-29T08:59:14.815Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

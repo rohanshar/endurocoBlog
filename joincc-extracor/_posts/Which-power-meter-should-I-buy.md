@@ -3,7 +3,7 @@ title: "Which power meter should I buy?"
 excerpt: >
   With these powermeter tips what to look for your search can be a whole lot easier. Read all about it, buying a Power Meter for Cycling!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-30T17:23:34.335Z"
+date: "2024-01-20T15:56:44.444Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

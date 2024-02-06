@@ -3,7 +3,7 @@ title: "Why use NP for your training?"
 excerpt: >
   This article explains the concept of normalized power and how to use it in quantifying your training load for cyclists.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-02T17:02:18.652Z"
+date: "2023-12-09T22:22:47.223Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

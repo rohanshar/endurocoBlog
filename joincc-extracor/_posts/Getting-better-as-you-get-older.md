@@ -3,7 +3,7 @@ title: "Getting better as you get older"
 excerpt: >
   Getting older, but you also wan to go faster. How do you do it? Luckily getting older at cycling also has his upsides.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-19T03:20:11.476Z"
+date: "2024-01-14T22:34:41.437Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

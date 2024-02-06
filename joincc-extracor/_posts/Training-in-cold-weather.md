@@ -3,7 +3,7 @@ title: "Training in cold weather"
 excerpt: >
   The effects of training in the cold as a cyclist. With these Cycling tips you can go for a ride in cold temperatures. Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-25T20:40:00.317Z"
+date: "2023-11-11T03:58:37.236Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

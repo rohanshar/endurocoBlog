@@ -3,7 +3,7 @@ title: "What can I do with the ‘Training stress score’?"
 excerpt: >
   How can you use Training Stress Score to make yourself a better training plan? Read all about it in this article.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-15T22:11:56.265Z"
+date: "2023-12-03T01:04:55.130Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

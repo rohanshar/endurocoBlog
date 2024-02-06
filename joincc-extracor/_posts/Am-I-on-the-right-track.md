@@ -3,7 +3,7 @@ title: "Am I on the right track?"
 excerpt: >
   How do you know, you are training in the right way as a cyclist. Read all about what indicators you need to track with cycling.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-23T17:40:14.954Z"
+date: "2023-11-15T21:27:07.255Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

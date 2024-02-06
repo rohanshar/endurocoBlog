@@ -3,7 +3,7 @@ title: "What is Critical Power?"
 excerpt: >
   The term Critical Power is something different than FTP. What it is and how useful it is as a cyclist, we explain here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-02T05:28:16.507Z"
+date: "2024-01-21T02:34:50.628Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

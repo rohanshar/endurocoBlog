@@ -3,7 +3,7 @@ title: "How to do interval training outside?"
 excerpt: >
   Doing a cycling training outside is not that easy. With these tips you can take your interval training outdoors. Read it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-14T17:27:37.780Z"
+date: "2024-01-07T04:49:12.437Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

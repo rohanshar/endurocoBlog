@@ -3,7 +3,7 @@ title: "Zwift racing tips"
 excerpt: >
   Zwift Racing is not only about pushing numbers but also tactics, the right trainer, nutrition, hydration and cooling. Read our tips here.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-04T15:09:30.067Z"
+date: "2023-11-21T13:06:14.702Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

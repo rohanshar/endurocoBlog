@@ -3,7 +3,7 @@ title: "Converting Watts into calories"
 excerpt: >
   In this article we will explain how to convert wattages into kilocalories and what the limitations of this method are.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-03T18:47:35.854Z"
+date: "2023-11-10T14:34:16.317Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

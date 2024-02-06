@@ -3,7 +3,7 @@ title: "The 11 rules for optimal recovery"
 excerpt: >
   Recovery from day to day is often a challenge for many cyclists. Optimal cycling needs optimal recovery to perform in the best way possible.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-16T14:19:48.170Z"
+date: "2023-11-24T15:47:07.489Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "How to reach peak performance on D-day"
 excerpt: >
   Reducing training load before the goal is called tapering. Tapering is key to reach peak performance. Read about it how to do this properly..
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-16T12:05:37.000Z"
+date: "2023-11-27T10:39:48.477Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

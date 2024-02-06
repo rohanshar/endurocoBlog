@@ -3,7 +3,7 @@ title: "What is anaerobic work capacity and W’?"
 excerpt: >
   What to do with Anaerobic Work Capicity as a cyclist. In this article we explain the importance and how to train it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-16T20:35:09.394Z"
+date: "2023-11-12T19:09:58.901Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

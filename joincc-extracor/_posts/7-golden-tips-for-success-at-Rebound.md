@@ -3,7 +3,7 @@ title: "7 golden tips for success at Rebound"
 excerpt: >
   Here are our 7 golden tips to make sure you have succes at Rebound and don’t hit a wall before your cycling computer says ‘route completed’.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-27T09:31:57.257Z"
+date: "2024-01-26T05:03:56.420Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

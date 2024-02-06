@@ -3,7 +3,7 @@ title: "Why do a warming-up?"
 excerpt: >
   When is a proper warming-up for cycling advisable and how to perform a good warming-up. The pro's and cons are explained in this article.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-12T06:06:54.372Z"
+date: "2023-12-07T13:10:19.718Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "Cycling training definitions"
 excerpt: >
   What does the terms FTP, ERG mode, Kcal, Training Stress Score and Normalized power in cycling actually mean. Read it all here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-03T06:10:51.615Z"
+date: "2024-01-22T15:02:34.447Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

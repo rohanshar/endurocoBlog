@@ -3,7 +3,7 @@ title: "Why can I not always compare my power and heart rate?"
 excerpt: >
   Do you have to train on heart rate or power? And why can't you always combine the two. Read all about it in this article!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-27T03:27:35.375Z"
+date: "2023-12-30T03:42:59.507Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

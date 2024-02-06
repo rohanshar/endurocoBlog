@@ -3,7 +3,7 @@ title: "Cycling tips for your first 100 km"
 excerpt: >
   Completing your first 100 km bike ride is a milestone. JOIN will help you with cycling tips to help you achieve this goal.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-12T19:33:30.442Z"
+date: "2023-12-05T01:51:28.957Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

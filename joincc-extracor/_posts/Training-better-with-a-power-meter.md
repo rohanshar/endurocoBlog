@@ -3,7 +3,7 @@ title: "Training better with a power meter"
 excerpt: >
   Training with a power meter for cyclists takes some practice. With these tips you will hit the ground running. Read all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-02T19:43:06.992Z"
+date: "2023-11-09T19:40:20.645Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

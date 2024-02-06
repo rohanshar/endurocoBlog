@@ -3,7 +3,7 @@ title: "The running cyclist"
 excerpt: >
   How do you combine cycling and running? Or how do you improve from running as a cyclist. Read all about it in this article!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-04T07:48:43.715Z"
+date: "2024-02-02T18:57:51.313Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

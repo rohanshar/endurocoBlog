@@ -3,7 +3,7 @@ title: "What 3 months JOIN could mean to you"
 excerpt: >
   It’s one of the most frequently asked questions and one of the most difficult to answer. It won’t come as a surprise that the unsatisfactory answer is: ‘it depends’. It depends, for example, on your s
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-26T17:20:14.977Z"
+date: "2023-12-06T00:32:29.013Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

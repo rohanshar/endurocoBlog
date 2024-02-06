@@ -3,7 +3,7 @@ title: "Indoor Cycling: The Ultimate Guide to Biking without Leaving Home"
 excerpt: >
   Whether you're preparing for a race or just trying to stay in shape, understanding indoor cycling essentials can optimize your experience.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-15T03:38:45.731Z"
+date: "2024-01-22T23:59:15.302Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

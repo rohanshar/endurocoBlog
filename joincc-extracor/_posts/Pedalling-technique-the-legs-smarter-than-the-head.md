@@ -3,7 +3,7 @@ title: "Pedalling technique; the legs smarter than the head"
 excerpt: >
   Cycling is technically not a very complicated sport with pedalling technique. We are happy to give you tips to improve your pedallstroke.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-20T02:26:48.616Z"
+date: "2024-02-04T04:25:28.356Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

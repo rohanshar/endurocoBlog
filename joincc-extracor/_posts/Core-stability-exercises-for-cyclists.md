@@ -3,7 +3,7 @@ title: "Core stability exercises for cyclists"
 excerpt: >
   Core stability is so important for a cyclist. We briefly explain why every cyclist should include core stability in his daily routine.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-14T18:47:01.344Z"
+date: "2024-01-21T22:16:04.774Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "Taco wins Giro d’Italia stage"
 excerpt: >
   Taco van der Hoorn wins the third stage of the Giro d'Italia 2021 in spectacular fashion. We at Cyclinglab are super proud of this amazing achievement!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-01T07:09:42.182Z"
+date: "2024-02-02T01:09:14.037Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -3,7 +3,7 @@ title: "I want to lose weight"
 excerpt: >
   How to lose weight and become a better cyclist at the same time. This combination is not that simple. Read it here all about it!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-14T04:15:19.995Z"
+date: "2023-12-06T04:54:33.447Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

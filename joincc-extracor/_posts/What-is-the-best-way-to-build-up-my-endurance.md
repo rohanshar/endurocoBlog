@@ -3,7 +3,7 @@ title: "What is the best way to build up my endurance?"
 excerpt: >
   If you want to build up your endurance capacity you need to extend your endurance rides. But what is the best Cycling approach? Read it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-07T08:00:50.533Z"
+date: "2023-11-25T13:21:52.612Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

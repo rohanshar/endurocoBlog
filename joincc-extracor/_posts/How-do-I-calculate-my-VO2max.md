@@ -3,7 +3,7 @@ title: "How do I calculate my VO2max"
 excerpt: >
   Science has since time immemorial been looking for ways to say something about VO2max without a laboratory setup. It should be mentioned that 50 years ago it was thought that VO2max was poorly trainab
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-10T03:32:05.781Z"
+date: "2024-01-26T23:57:47.413Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

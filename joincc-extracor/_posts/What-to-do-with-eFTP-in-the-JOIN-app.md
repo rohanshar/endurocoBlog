@@ -3,7 +3,7 @@ title: "What to do with eFTP in the JOIN app?"
 excerpt: >
   In the JOIN app, you can see the eFTP at your profile in the training statistics overview of your training plan. This is your estimated FTP.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-04T12:22:27.415Z"
+date: "2024-01-02T23:32:03.197Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

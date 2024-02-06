@@ -3,7 +3,7 @@ title: "8 tips for the ‘time-crunched’ cyclist"
 excerpt: >
   How to train as efficiently as possible? If you want to get the most out of your training time, read our tips in this article!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-05T22:27:58.047Z"
+date: "2023-12-19T23:27:40.878Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

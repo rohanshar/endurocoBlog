@@ -3,7 +3,7 @@ title: "The Ultimate Starter Guide to Cycling Training"
 excerpt: >
   Everything you need to know about training for cyclists. These ground rules should be common knowledge for every cyclist who will start training!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-08T00:28:01.644Z"
+date: "2023-12-27T03:44:41.352Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

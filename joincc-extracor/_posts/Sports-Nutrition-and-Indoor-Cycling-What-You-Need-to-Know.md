@@ -3,7 +3,7 @@ title: "Sports Nutrition and Indoor Cycling: What You Need to Know"
 excerpt: >
   Indoor trainen lijkt tegenwoordig veel meer op buiten fietsen en daarbij speelt net als bij buiten sportvoeding een essentiële rol bij je prestaties en herstel. Hoe verhoudt indoor cycling zich echter
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-05T01:08:10.869Z"
+date: "2024-01-21T00:25:59.992Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

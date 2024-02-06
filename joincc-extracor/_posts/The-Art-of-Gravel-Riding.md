@@ -3,7 +3,7 @@ title: "The Art of Gravel Riding"
 excerpt: >
   What makes riding your bike on gravel different than riding on the road and why would you need a gravel bike. Read all about it here!
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-10T06:03:27.066Z"
+date: "2024-02-03T04:12:43.104Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

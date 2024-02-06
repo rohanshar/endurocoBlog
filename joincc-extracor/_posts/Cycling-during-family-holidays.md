@@ -3,7 +3,7 @@ title: "Cycling during family holidays"
 excerpt: >
   As a fanatical amateur cyclist, you would like nothing more than to take your beloved racing bike on your family holidays and discover new challenging routes. But you also want your family to enjoy th
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-12T22:46:29.864Z"
+date: "2024-01-04T16:22:59.312Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"
