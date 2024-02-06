@@ -10,13 +10,35 @@ function randomDate(start, end) {
   );
 }
 
-function formatContent(content) {
-  // Simple example of formatting: Add markdown paragraph breaks, replace certain patterns with markdown headings, etc.
-  // This is a basic implementation. You may need to adjust it based on your actual content structure.
-  return content
-    .trim()
-    .replace(/\n\t\n\t\n\t\t\n\t\t\t/g, "\n\n## ") // Example: Convert a specific pattern to subheading
-    .replace(/\n/g, "\n\n"); // Ensure paragraphs are separated by blank lines in markdown
+function formatContent(content, maxWordsForHeader = 10) {
+  // Split the content into lines.
+  const lines = content.split("\n");
+
+  // Transform each line based on the criteria.
+  const formattedLines = lines.map((line) => {
+    // Trim whitespace from the line.
+    const trimmedLine = line.trim();
+
+    // Count the words in the line.
+    const wordCount = trimmedLine.split(/\s+/).length;
+
+    // Determine if the line should be treated as a header.
+    // A line is considered a potential header if it has fewer words than the specified limit.
+    // Headers may or may not end with a full stop.
+    const isHeader = wordCount <= maxWordsForHeader;
+
+    if (isHeader) {
+      // Format the line as a header (Markdown style) if it meets the criteria.
+      // Using "##" for subheaders; adjust as necessary based on your content structure.
+      return `## ${trimmedLine}`;
+    } else {
+      // For regular paragraphs, ensure they're separated by blank lines for proper Markdown formatting.
+      return trimmedLine.length > 0 ? `${trimmedLine}\n` : "";
+    }
+  });
+
+  // Join the transformed lines back into a single string, separating paragraphs/headers with double newlines.
+  return formattedLines.join("\n\n");
 }
 
 async function createMarkdownFiles() {

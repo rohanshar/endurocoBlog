@@ -4,7 +4,7 @@ excerpt: >
   Best weight for a cyclist?
               Weight is one of the decisive factors in cycling performance. Especially in professional cycling, the urge to lose weight runs really deep. In the Grand Tours (T
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-06T15:28:39.610Z"
+date: "2023-12-04T06:46:41.955Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"
@@ -14,26 +14,33 @@ ogImage:
 
 Weight is one of the decisive factors in cycling performance. Especially in professional cycling, the urge to lose weight runs really deep. In the Grand Tours (Tour de France, Giro d’Italia, Vuelta d’Espana) the flyweights are calling the shots in the GC. The era when a big and strong Danish or Spanish cyclist won the Tour de France seems to be long behind us. Yet low weight also has its downsides. This article discusses the pros and cons of a cyclist with a low weight.
 
-On the flats, weight not a big factor
+
+## On the flats, weight not a big factor
 
 The body of a professional cyclist consists of approximately 10% fat, 15 % bone and 50 % muscle mass. This means that a cyclist weighing 70 kilos will have 7 kilos. On the flats, weight is not a big factor as air resistance is the biggest factor to overcome. A kilo more or less has a small effect on the frontal surface. For comparison, a cyclist riding alone at a speed of 42 km/h in a windless environment will have to overcome about 87% air resistance, 10% rolling resistance and about 3% loss in the transmission of the rotating parts. For this he will have to deliver a total of 350 Watt. The weight does have an influence on the rolling resistance, but a difference of for instance two kilos only saves about 0.5 W. Even in a sport that is fanatically looking for margin gains, this is negligible. On top of that, body mass is an important factor in acceleration ability, like in a demarrage and during sprints, but that is beyond the scope of this article.
 
-In the mountains weight has impact
+
+## In the mountains weight has impact
 
 If we go into the mountains, the impact of 2 kilos is a lot bigger. At a gradient of 9%, our 70 kilo cyclist will ride at 16 km/h if he pushes the same 350 W. But given that low speed, the aerodynamic resistance is only 5% of the overall resistance while the resistance provided by the gradient (gravity!) is no less than 88% of the total resistance to overcome. With two kilos less body weight, 10 W less power is needed to ride at the same speed. Or, the other way around, with the same power, a cyclist that weighs 2 kilos less goes 0.5 km/h faster.
 
+
 On the basis of this theoretical explanation, it therefore seems rather obvious that trainers, teams and riders strive for as low a weight as possible. For the GC contenders in Grand Tours this means that they aim for a fat percentage of between 5% and 8%. However, this is not the percentage of fat that they can sustain all year round, but certainly aim for it when the start of one of the Grand Tours looms.
 
-low fat percentages
+
+## low fat percentages
 
 In order to achieve such low fat percentages, a strict diet tailored to the training load is indispensable. You will eventually have to train with a negative energy balance in order to lose weight. This simply means that the intake of kilocalories must be less than the consumption. On an average training day, a professional cyclist burns about 3000 kilocalories. In addition, fuel is also needed for the normal metabolism of the body, which means that in total about 4200 kilocalories should be consumed to prevent shortages. To create a deficiency in which the body can still optimally recover from the training efforts is a very complicated and finely balanced puzzle. Recent research has shown that the base metabolism of frequent athletes is lower in rest than in less active people. This is probably caused by the fact that a person prefers to be less active after heavy exertion. Cyclists are therefore expected to be slacking on the sofa as much as possible if they are not training.
 
-What about ketones
+
+## What about ketones
 
 If we go back to two kilos of weight loss, it is essential to create deficits so that stored fat tissue is converted into energy. The process in which your body enters a state in which the body fat is converted into energy is called ketosis. In this process, stored fat tissue is converted into ketones (indeed, those infamous ketones) and used as energy for the cells. Ketones are therefore nothing more than a natural extra source of energy. The conversion of fat tissue into ketones does not happen when there are enough carbohydrates nearby to convert into energy. That’s why you quite literally have to starve yourself to encourage the body to use stored fat as energy. Training with a low carbohydrate supply (sober training) for example, is a method to achieve this.
 
+
 However, this is not without its dangers. The greatest danger lies in the fact that your energy systems are never really completely separated, but are always mixed up. For example, the body always burns a little protein, but as long as the intensity is low enough or there are enough carbohydrates present, you will only burn a little protein. These proteins are essential for muscle building. When the carbohydrates are almost depleted and your body starts to burn stored fat tissue, you will also use more proteins as energy. This not only reduces weight, but will also cause loss of strength because muscle tissue is not regenerated properly. You have then basically started eating yourself! The tell tale sign is a very unpleasant ammonia taste in your mouth. The puzzle in training physiology nowadays is to lose weight by training with a negative energy balance, but without a loss of power.
 
-The problem of a deficient immune system
+
+## The problem of a deficient immune system
 
 Extremely low fat percentages also have their drawbacks. Firstly, it is mentally extremely hard to stick to a very (very!) strict training and nutrition regime over a longer period of time. This also explains the weight fluctuations of the Grand Tour favorites. In addition, hormone functions can deteriorate with reduced production of estrogen in women and testosterone in men. Because of these reduced hormonal functions, osteoporosis (bone density reduction) is also lurking. This causes faster bone fractures in the event of accidents. The functioning of the immune system also suffers, as a result of which a person can more easily fall ill. Top form and getting sick are therefore very close to each other in top sports. Of course, this can completely negate the entire performance improvement. Trying to lose weight and improve performance while staying healthy is quite tricky to do and without the right guidance not nearly as easy as it might seem.
