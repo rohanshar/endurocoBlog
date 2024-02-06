@@ -1,0 +1,26 @@
+---
+title: "Cycling in hot weather"
+excerpt: >
+  Cycling in hot weather is not without risks. Read these tips about riding your bike in hot weather before you get on your bike!
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+date: "2024-01-01T11:12:25.880Z"
+author:
+  name: "Rohan Sharma"
+  picture: "/assets/blog/authors/jj.jpeg"
+ogImage:
+  url: "/assets/blog/dynamic-routing/cover.jpg"
+---
+
+Cycling is a sport that most people practice mostly in summer. In the Tour de France the pro cyclists get on their bikes every day even when the temperatures go through the roof, although there is now a heat protocol to protect the cyclists. Unlike football, riding a bike creates wind that provides the necessary cooling. Of course you sweat a lot and you have to drink more, but otherwise it’s eminently doable. Yet you must be careful at high temperatures as the impact of heat on your body should not be underestimated.
+Producing heat with cycling in de heat
+Once on the bike, the body has to work to move you forward. Only a small part of the energy in this process can be used to put pressure on the pedals, about 20 percent. The remaining 80 percent is not lost but is converted into heat. If the body would do nothing with this heat, the body temperature would continue to rise and vital organs would no longer be able to function. This heat must therefore be gotten rid of.
+Distribution of heat
+Fortunately, your body can cool down. This can technically be done in three ways, i.e. through conduction, radiation and convection. Conduction would be by touching a cold object, radiation is simply like the release of heat as the sun does, and convection is heat given off to flowing air or water. Sweating where you evaporate water to flowing air falls into the latter category and is by far the most effective way to release the body heat.
+The problem with sweating
+But a nasty side effect of sweating is that the body loses an enormous amount of fluid that is essential to keep other processes, such as muscle contraction, going. With too much fluid loss and too little fluid intake, dehydration is the result. In warm conditions and with intensive exercise, the body can lose two liters of fluid per hour. When you lose 2% of body weight in moisture, performance decreases noticeably and at 5%, performance can deteriorate by even 30%. In the absence of wind, for example uphill and in high humidity (which makes it difficult for sweat to evaporate), extra caution is needed. The trick, therefore, is to keep drinking a lot. However, your body can only absorb a certain amount of fluid and if the loss is still greater than the absorption, the body will still dehydrate. Nevertheless, there are ways to increase the absorption, for example by taking sports drinks.
+Which sport drink?
+The distinction in the type of sports drinks is mainly based on their osmolarity, or the number of dissolved particles of sugars and salts.  A drink is hypotonic if it contains fewer dissolved particles than the blood, this is the case with water. The problem with water is that the lack of dissolved particles causes it to pass too quickly through the gastrointestinal tract. Too quickly to allow for it to be absorbed properly. But if you drink the water while also taking a gel, the ratio in your stomach is already different of course. An isotonic sports drink has the same osmolarity as the blood. The fluid is absorbed much better than water, because it passes through the body more slowly. An energy drink or hypertonic sports drink, on the other hand, contains more dissolved particles than the blood. This allows the body to easily absorb sugars, but the fluid is again not absorbed as quickly. Hypertonic drinks are therefore essential to replenish the supply of sugars, while an isotonic sports drink stimulates the absorption of fluids much better than water.
+How much per hour?
+Under normal circumstances, your body absorbs no more than 750 ml to 1 liter of fluid per hour. However, you can lose more per hour, but drinking more than that makes little sense. What does make sense is to drink the right beverage. This is because by sweating you lose a lot of minerals (also called electrolytes). These minerals, such as sodium and potassium, are essential for proper muscle function. The loss of minerals is even considered one of the main causes of muscle cramps. So, especially in warm conditions, in addition to supplementing your carbohydrates, you need to make sure you have a good strategy with an isotonic sport drink with sufficient minerals.
+Cycling in the heat – last advice
+So especially at high temperatures, high humidity and the absence of wind, extra care is needed. Even with a good hydration strategy, dehydration can be lurking, as the loss of fluids can be greater than the absorption capacity. When the ride is long enough, symptoms such as nausea, a dark urine color, headaches and loss of performance can occur. In addition, the heart rate increases at the same power level because the loss of fluid decreases the blood volumes. In order to pump the same amount of blood to the organs and muscles, the heart rate goes up. This is called heart rate decoupling in exercise physiology. Take these symptoms seriously and adjust the duration and intensity of your rides to the weather conditions!
