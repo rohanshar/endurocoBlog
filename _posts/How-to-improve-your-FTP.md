@@ -4,7 +4,7 @@ excerpt: >
   How to improve your FTP
               What is FTP? No bicycle race on television goes by without the commentators talking about FTP or power. More and more training plans are based on power. Maybe your
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-18T02:15:46.425Z"
+date: "2024-01-29T00:25:02.013Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

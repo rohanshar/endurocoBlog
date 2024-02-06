@@ -1,28 +1,39 @@
+import React from "react";
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
+import InstagramIcon from '@mui/icons-material/Instagram';
+import TwitterIcon from '@mui/icons-material/Twitter';
+import Link from 'next/link';
+import Image from 'next/image';
+// import logofooter from '../public/logo_orange.png'; // Adjust path as needed, assuming the image is in the public directory
 
 export function Footer() {
   return (
-    <footer className="bg-neutral-50 border-t border-neutral-200">
+    <footer style={{ backgroundColor: "#343a40", color: "white", textAlign: "center", padding: "20px" }}>
       <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
-          <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Statically Generated with Next.js.
-          </h3>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href="https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Read Documentation
-            </a>
-            <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
-            >
-              View on GitHub
-            </a>
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: "20px" }}>
+          <div>
+            {/* Uncomment and correct the path to use the Image component
+            <Image src={logofooter} alt="footer logo" width={120} height={60} style={{ marginBottom: "10px" }} />
+            */}
+            <p>AI-driven real-time coaching.</p>
           </div>
+          <div>
+            <h6>Tools</h6>
+            <Link href="/cyclingevents" passHref><InstagramIcon style={{ color: "white", display: "block", marginBottom: "5px" }} /></Link>
+            <Link href="/bikefit" passHref><TwitterIcon style={{ color: "white", display: "block", marginBottom: "5px" }} /></Link>
+          </div>
+          <div>
+            <h6>About Us</h6>
+            <Link href="https://forum.enduroco.in" passHref><p style={{ color: "white", marginBottom: "5px" }}>Forum</p></Link>
+            <Link href="https://servicestatus.enduroco.in" passHref><p style={{ color: "white", marginBottom: "5px" }}>Service Status</p></Link>
+            <Link href="/privacypolicy" passHref><p style={{ color: "white", marginBottom: "5px" }}>Privacy Policy</p></Link>
+          </div>
+          <p>Follow us on:</p>
+          <div>
+            <Link href="https://www.instagram.com/enduroco_in/" passHref><InstagramIcon sx={{ color: "white", marginRight: "10px" }} /></Link>
+            <Link href="https://twitter.com/enduroco_ai/" passHref><TwitterIcon sx={{ color: "white" }} /></Link>
+          </div>
+          <p>© 2024 EnduroCo</p>
         </div>
       </Container>
     </footer>

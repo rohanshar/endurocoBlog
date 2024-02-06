@@ -4,7 +4,7 @@ excerpt: >
   The running cyclist
               Many of today’s cyclists are no longer just riding his or her bikes. More and more of them are regularly putting on a pair of running shoes, hitting the gym…
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-22T13:02:57.378Z"
+date: "2023-12-31T08:30:57.059Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   Heart rate decoupling.
               You might have heard of it, but there is also a good chance that you are unfamiliar with the specifics of this concept. “Heart rate decoupling”, sometimes also calle
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-29T23:04:26.243Z"
+date: "2024-01-22T09:31:53.620Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   Training like a pro: polarized training with cycling
               Your Functional Threshold Power (FTP), or the anaerobic threshold, is often used as the measure of your fitness. FTP is the maximum pow
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-16T15:48:13.911Z"
+date: "2023-12-22T01:19:37.688Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

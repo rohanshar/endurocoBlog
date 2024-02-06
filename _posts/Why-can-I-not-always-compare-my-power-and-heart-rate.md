@@ -4,7 +4,7 @@ excerpt: >
   Why can I not always compare my power and heart rate?
               This is an important question that is not very easy to answer. Several factors play a role at both power and heart rate. The problem w
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-26T23:30:24.078Z"
+date: "2023-12-12T03:09:22.694Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   What to do with eFTP in the EnduroCo app?
               In the EnduroCo Cycling app, you can see the eFTP at your profile in the training statistics overview. This is your estimated FTP. We have noticed
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-25T09:52:28.995Z"
+date: "2023-12-09T12:57:22.233Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   Marginal gains
               Every cyclist who wants to improve is looking for shortcuts: things that cost little effort or money but do bring an improvement in performance. In its heyday, Team Sky even
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-30T10:36:47.809Z"
+date: "2024-02-03T15:02:07.854Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

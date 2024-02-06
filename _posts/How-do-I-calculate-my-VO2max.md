@@ -4,7 +4,7 @@ excerpt: >
   How do I calculate my VO2max
               Science has since time immemorial been looking for ways to say something about VO2max without a laboratory setup. It should be mentioned that 50 years ago it w
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-29T13:38:03.130Z"
+date: "2023-12-26T15:57:03.417Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

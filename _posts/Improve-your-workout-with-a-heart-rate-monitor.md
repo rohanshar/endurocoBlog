@@ -4,7 +4,7 @@ excerpt: >
   Improve your workout with a heart rate monitor
               To train properly, you need to be able to determine the intensity of your workout. It is not just afterwards that you want to know how hard t
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-22T21:29:54.526Z"
+date: "2023-11-26T02:29:28.270Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

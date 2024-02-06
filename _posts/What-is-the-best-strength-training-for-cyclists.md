@@ -4,7 +4,7 @@ excerpt: >
   What is the best strength training for cyclists?
               Which strength training will make you ride faster? As a cyclist, do you benefit from strength training and if so, which strength training e
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-31T23:30:47.393Z"
+date: "2024-01-08T05:12:00.413Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

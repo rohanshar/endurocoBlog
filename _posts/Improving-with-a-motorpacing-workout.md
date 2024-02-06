@@ -4,7 +4,7 @@ excerpt: >
   Improving with a motorpacing workout?
               "I have heard in the corridors that motorpacing is a good method to get in shape faster. Is that true?" Motorpacing is already an ancient method of si
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-06T07:32:31.676Z"
+date: "2024-02-04T15:24:47.469Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

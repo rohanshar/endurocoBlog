@@ -4,7 +4,7 @@ excerpt: >
   CycloWorld
               CycloWorld was founded in 2010 from a topic on a cycling forum. It all started with a simple list of a handful of cyclos for the road bike in Europe….
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-17T21:44:49.598Z"
+date: "2023-11-16T04:22:06.803Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   Heart rate zones
               In the article 'the basics' we already described that we often work with heart rate or power training zones. In order to better understand these zones, we explain in this.
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-09T20:34:17.732Z"
+date: "2024-01-18T10:30:35.271Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

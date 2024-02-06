@@ -4,7 +4,7 @@ excerpt: >
   3 causes and 7 solutions for cramps
               Cramp during cycling is one of the most mysterious phenomena in exercise physiology. One person has never had to deal with it, while to the next it seem
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-15T18:33:32.773Z"
+date: "2024-01-08T06:09:32.702Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   Cycling in hot weather
               Cycling is a sport that most people practice mostly in summer. In the Tour de France the pro cyclists get on their bikes every day even when the temperatures go…
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-03T16:00:12.694Z"
+date: "2023-11-23T05:15:17.405Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

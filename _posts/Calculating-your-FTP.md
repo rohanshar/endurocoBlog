@@ -4,7 +4,7 @@ excerpt: >
   Calculating your FTP
               How precise is this FTP test? The outcomes of these FTP calculations are as accurate as the input. The physics behind this equation is 100% exact, but to come to...
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-07T13:40:47.460Z"
+date: "2023-12-21T09:26:45.618Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

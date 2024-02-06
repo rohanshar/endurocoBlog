@@ -4,7 +4,7 @@ excerpt: >
   Those all-important final meters: the sprint.
               Many cycling races end in a sprint. If it’s not a bunch sprint, it’s likely a leading group that sprints for the flowers or a classic sprint à
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-02T06:26:00.446Z"
+date: "2023-12-15T22:55:42.002Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

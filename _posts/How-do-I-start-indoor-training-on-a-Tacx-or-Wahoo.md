@@ -4,7 +4,7 @@ excerpt: >
   How do I start indoor training on a Tacx or Wahoo?
               In autumn and winter, it becomes less pleasant for some to enjoy cycling outside. That is why it is very handy if you can train indoors a
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-02T20:45:39.981Z"
+date: "2024-01-24T14:35:33.262Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

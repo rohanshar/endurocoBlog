@@ -4,7 +4,7 @@ excerpt: >
   Sports Nutrition and Indoor Cycling: What You Need to Know
               Indoor cycling, such as with the EnduroCo Workout player or on platforms like Zwift are becoming increasingly popular. The traine
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-12T06:56:07.603Z"
+date: "2024-01-04T01:12:23.273Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

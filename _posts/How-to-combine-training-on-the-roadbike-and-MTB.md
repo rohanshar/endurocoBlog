@@ -4,7 +4,7 @@ excerpt: >
   How to combine training on the roadbike and MTB?
               What many road cyclists who occasionally take the MTB or MTB riders who occasionally ride on the roadbike encounter is that the intensity o
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-28T10:50:05.448Z"
+date: "2023-12-16T20:37:20.440Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

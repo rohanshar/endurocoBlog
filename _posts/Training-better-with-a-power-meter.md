@@ -4,7 +4,7 @@ excerpt: >
   Training better with a power meter
               Training with a power meter is more than just mounting the meter and connecting it to your Garmin or Wahoo. During your first ride you will see those pow
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-01T15:06:59.487Z"
+date: "2024-01-06T16:04:19.654Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

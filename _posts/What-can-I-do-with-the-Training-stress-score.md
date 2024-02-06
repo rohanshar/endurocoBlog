@@ -4,7 +4,7 @@ excerpt: >
   What can I do with the ‘Training stress score’?
               What can I do with the ‘Training stress score’? What does it mean and how can it help you to improve? The idea of training is to give the bo
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-24T23:43:09.807Z"
+date: "2024-01-07T16:50:45.142Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

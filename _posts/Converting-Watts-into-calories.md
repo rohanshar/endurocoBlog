@@ -4,7 +4,7 @@ excerpt: >
   Converting Watts into calories
               During a multi-day cycle event or a stage race it is important to maintain a positive energy balance (i.e. consume at least as many calories as your body has
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-21T21:30:58.758Z"
+date: "2023-12-06T14:06:48.079Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

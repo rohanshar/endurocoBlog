@@ -4,7 +4,7 @@ excerpt: >
   What 3 months EnduroCo could mean to you
               It's one of the most frequently asked questions and one of the most difficult to answer. It won't come as a surprise that the unsatisfactory answer
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-24T13:15:45.526Z"
+date: "2023-12-29T07:09:21.350Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

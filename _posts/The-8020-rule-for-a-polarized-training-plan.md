@@ -4,7 +4,7 @@ excerpt: >
   The 80/20 rule for a polarized training plan
               A good polarized training plan contains a combination of different types of workouts and will include workouts around the turnover point and in
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-27T16:33:33.382Z"
+date: "2023-11-14T20:25:49.775Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

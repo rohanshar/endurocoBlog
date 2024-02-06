@@ -4,7 +4,7 @@ excerpt: >
   Cycling training definitions
               Power: Definition: Power is a physical quantity of energy per unit of time. The unit of power is Watt or joules per second. Explanation: It's the most valid an
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-04T20:47:06.429Z"
+date: "2023-11-12T10:11:12.307Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

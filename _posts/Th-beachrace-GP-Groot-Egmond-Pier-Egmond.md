@@ -4,7 +4,7 @@ excerpt: >
   Thé beachrace, GP Groot Egmond-Pier-Egmond
               EnduroCo Cycling is co-sponsor of the GP Groot Egmond-Pier-Egmond, the beach race of the year to be held January 7. You’ll ride 38 kilometers ove
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-09T23:53:36.712Z"
+date: "2024-02-03T22:45:08.860Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

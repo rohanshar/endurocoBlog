@@ -4,7 +4,7 @@ excerpt: >
   What should I eat and drink before, during and after a workout?
               You go out on a bike ride regularly and maybe you even monitor your training load. You might even follow a training plan. Ev
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-26T05:39:02.918Z"
+date: "2023-11-19T21:21:21.556Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

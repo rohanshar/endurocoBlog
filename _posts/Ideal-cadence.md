@@ -4,7 +4,7 @@ excerpt: >
   Ideal cadence
               What is the ideal cadence? One of the most written about subjects in cycling is the cadence. One of the reasons is that nowadays there is a very wide range…
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-21T01:18:33.726Z"
+date: "2023-11-13T05:11:15.814Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

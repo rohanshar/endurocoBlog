@@ -4,7 +4,7 @@ excerpt: >
   What is FTP?
               No bicycle race on television goes by without the commentators talking about FTP or power. More and more training plans are based on power. Maybe your training buddy just boug
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-23T08:49:07.081Z"
+date: "2023-12-29T19:20:50.705Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

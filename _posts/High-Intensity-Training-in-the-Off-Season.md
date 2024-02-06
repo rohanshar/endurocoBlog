@@ -4,7 +4,7 @@ excerpt: >
   High Intensity Training in the Off Season
               In the cold winter months many cyclists concentrate on long endurance rides. However, many of them have no idea why they are doing such long train
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-11T15:46:17.689Z"
+date: "2023-12-27T17:17:54.984Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

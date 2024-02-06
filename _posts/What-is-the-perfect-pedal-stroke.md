@@ -4,7 +4,7 @@ excerpt: >
   What is the perfect pedal stroke?
               Actually the answer to the first question is quite easy, but the second one requires a bit more explanation to answer. Let’s start with the easy one. Bett
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-08T01:47:18.781Z"
+date: "2023-12-14T20:14:49.405Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

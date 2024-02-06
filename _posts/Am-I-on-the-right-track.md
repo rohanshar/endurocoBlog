@@ -4,7 +4,7 @@ excerpt: >
   Am I on the right track?
               One of the most beautiful things about cycling is that everyone, young and old, can still improve. In other sports that involve more power and explosive efforts, t
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-29T15:43:49.334Z"
+date: "2024-01-30T01:05:30.846Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

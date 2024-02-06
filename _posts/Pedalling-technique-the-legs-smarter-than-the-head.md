@@ -4,7 +4,7 @@ excerpt: >
   Pedalling technique; the legs smarter than the head
               Cycling is not technically a very complicated sport. In essence, cycling is one of the few truly cyclical sports out there, by which is
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-05T19:01:13.168Z"
+date: "2024-01-11T01:37:32.023Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

@@ -4,7 +4,7 @@ excerpt: >
   Training in cold weather
               It might not be that cold outside yet, but winter is coming. The extent to which we as cyclists suffer from this cold differs from person to person. One person…
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-05T03:40:35.871Z"
+date: "2023-12-01T19:52:13.328Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

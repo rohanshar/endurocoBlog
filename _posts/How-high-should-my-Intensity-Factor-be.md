@@ -4,7 +4,7 @@ excerpt: >
   How high should my Intensity Factor be?
               The Intensity Factor (IF) is a very useful indicator. This article explains why it is so useful and how to interpret the number. Let’s first look at
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-22T00:34:44.914Z"
+date: "2023-12-19T13:45:08.829Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

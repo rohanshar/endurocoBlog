@@ -4,7 +4,7 @@ excerpt: >
   Average power or heart rate?
               A question that comes up frequently is what power or heart rate you should focus on in your intervals with the EnduroCo Cycling workouts. For example, should y
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-06T11:19:57.788Z"
+date: "2023-12-28T01:53:30.848Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

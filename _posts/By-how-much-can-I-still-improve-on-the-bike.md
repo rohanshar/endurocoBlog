@@ -4,7 +4,7 @@ excerpt: >
   By how much can I still improve on the bike?
               Perhaps this is the most frequently asked question that we, as cycling trainers, get asked. In this article we give an indication, with the nec
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-02-04T05:28:09.074Z"
+date: "2024-02-01T08:46:12.152Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

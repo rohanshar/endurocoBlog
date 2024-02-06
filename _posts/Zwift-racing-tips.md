@@ -4,7 +4,7 @@ excerpt: >
   Zwift racing tips
               Since in winter there are no road races to ride, the virtual bicycle racing platform of Zwift (and other platforms) is a very popular alternative. In this article we try…
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-17T01:47:40.138Z"
+date: "2023-12-09T19:28:40.110Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

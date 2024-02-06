@@ -4,7 +4,7 @@ excerpt: >
   Seated vs standing climbing
               Sprinting, accelerating, descending or time trialing are all very nice to do, but nothing beats cycling up a beautiful mountain pass. There is nothing more rewa
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-25T15:35:50.468Z"
+date: "2024-01-18T00:45:25.107Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

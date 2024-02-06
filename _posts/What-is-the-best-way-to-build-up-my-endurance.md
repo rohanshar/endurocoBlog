@@ -4,7 +4,7 @@ excerpt: >
   What is the best way to build up my endurance?
               We are frequently asked how you can best build up the length of your long cycling rides. Fortunately you have your Join endurance training pl
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-11T18:08:54.389Z"
+date: "2023-11-16T15:28:40.390Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

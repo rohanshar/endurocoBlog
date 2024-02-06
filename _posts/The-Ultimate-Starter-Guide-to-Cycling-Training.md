@@ -4,7 +4,7 @@ excerpt: >
   The Ultimate Starter Guide to Cycling Training
               Before you start exercising vigorously there are some basics you should get familiar with first. This article will get you up to speed with s
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-12-11T22:51:25.122Z"
+date: "2023-11-22T16:36:04.827Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

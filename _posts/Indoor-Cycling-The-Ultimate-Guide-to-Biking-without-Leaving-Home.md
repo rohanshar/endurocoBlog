@@ -4,7 +4,7 @@ excerpt: >
   Indoor Cycling: The Ultimate Guide to Biking without Leaving Home
               Indoor cycling has surged in popularity over the past few years, offering cyclists a way to train effectively regardless o
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-15T19:28:13.151Z"
+date: "2024-01-18T09:07:53.300Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"

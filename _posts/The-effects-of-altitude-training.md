@@ -4,7 +4,7 @@ excerpt: >
   The effects of altitude training
               Nowadays, every professional bike rider seems to go on an altitude training camp. If we believe the experts, the Tour de France cannot even be won anymore
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-01-16T22:00:46.715Z"
+date: "2023-11-26T20:28:03.149Z"
 author:
   name: "Rohan Sharma"
   picture: "/assets/blog/authors/jj.jpeg"
