@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import OpenAI from "openai"; // Adjusted based on the provided export file
 
-const apiKey = "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";
+const apiKey = "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";
 const openai = new OpenAI({
   apiKey: apiKey,
 });
@@ -10,9 +10,14 @@ const openai = new OpenAI({
 async function rewriteText(text) {
   console.log("text for rewrite ", text);
   try {
-    const response = await openai.completions.create({
+    const response = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
-      prompt: `Please rewrite the following text:\n\n${text}`,
+      messages: [
+        {
+          role: "user",
+          content: `Please rewrite the following text:\n\n${text}`,
+        },
+      ],
       temperature: 0.7,
       max_tokens: 1024,
       top_p: 1.0,
@@ -20,7 +25,14 @@ async function rewriteText(text) {
       presence_penalty: 0.0,
     });
     // Assuming the API response structure matches your setup
-    return response.choices[0].text.trim();
+    if (response) {
+      // Check if response exists
+      return response.choices[0].message;
+    } else {
+      // Handle the case where the response is undefined
+      console.error("OpenAI API call failed. Returning empty string.");
+      return "";
+    }
   } catch (error) {
     console.error("Error in rewriting text with OpenAI:", error);
     return "";
