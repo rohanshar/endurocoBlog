@@ -2,15 +2,16 @@ import fs from "fs";
 import path from "path";
 import OpenAI from "openai"; // Adjusted based on the provided export file
 
-const apiKey = "64sPHtCPldh5RSjgFdaqT3BlbkFJ2vscOakXIfFfFwZUVJIz";
+const apiKey = "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";
 const openai = new OpenAI({
   apiKey: apiKey,
 });
 
 async function rewriteText(text) {
+  console.log("text for rewrite ", text);
   try {
     const response = await openai.completions.create({
-      model: "text-davinci-003",
+      model: "gpt-3.5-turbo",
       prompt: `Please rewrite the following text:\n\n${text}`,
       temperature: 0.7,
       max_tokens: 1024,
@@ -18,13 +19,13 @@ async function rewriteText(text) {
       frequency_penalty: 0.0,
       presence_penalty: 0.0,
     });
-    return response.data.choices[0].text.trim();
+    // Assuming the API response structure matches your setup
+    return response.choices[0].text.trim();
   } catch (error) {
     console.error("Error in rewriting text with OpenAI:", error);
     return "";
   }
 }
-
 async function createNewJsonWithRewrittenFields(inputFilePath, outputFilePath) {
   const rawData = fs.readFileSync(inputFilePath);
   const articles = JSON.parse(rawData);
