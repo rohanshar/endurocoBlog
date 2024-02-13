@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 
-const sourcePath = join(".", "joinccdetails.json"); // Ensure this path is correct
+const sourcePath = join(".", "joinccdetails2.json"); // Ensure this path is correct
 const targetDir = join("..", "_posts"); // Adjusted to be within the current directory for demonstration
 
 function randomDate(start, end) {
@@ -48,7 +48,7 @@ async function createMarkdownFiles() {
     const articles = JSON.parse(data);
 
     for (const article of articles) {
-      const sanitizedHeading = article.heading
+      const sanitizedHeading = article.heading2
         .replace(/\s+/g, "-")
         .replace(/[^a-zA-Z0-9-]/g, "");
       const fileName = `${sanitizedHeading}.md`;
@@ -58,12 +58,12 @@ async function createMarkdownFiles() {
         new Date()
       ).toISOString();
 
-      const formattedContent = formatContent(article.content);
+      const formattedContent = formatContent(article.content2);
 
       const content = `---
-title: "${article.heading.replace(/"/g, '\\"')}"
+title: "${article.heading2.replace(/"/g, '\\"')}"
 excerpt: >
-  ${article.description.substring(0, 200).replace(/\n/g, "\n  ").trim()}
+  ${article.description2.substring(0, 200).replace(/\n/g, "\n  ").trim()}
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "${randomPublicationDate}"
 author:
