@@ -1,8 +1,11 @@
 import fs from "fs";
 import path from "path";
 import OpenAI from "openai"; // Adjusted based on the provided export file
+import dotenv from "dotenv";
 
-const apiKey = "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";
+dotenv.config(); // Load variables from .env file
+
+const apiKey = process.env.OPENAI_API_KEY;
 const openai = new OpenAI({
   apiKey: apiKey,
 });
