@@ -11,7 +11,7 @@ const openai = new OpenAI({
 });
 
 async function rewriteText(text) {
-  console.log("text for rewrite ", text);
+  // console.log("text for rewrite ", text);
   try {
     const response = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
@@ -30,7 +30,8 @@ async function rewriteText(text) {
     // Assuming the API response structure matches your setup
     if (response) {
       // Check if response exists
-      return response.choices[0].message;
+      console.log("rewrite success");
+      return response.choices[0].message.content;
     } else {
       // Handle the case where the response is undefined
       console.error("OpenAI API call failed. Returning empty string.");
