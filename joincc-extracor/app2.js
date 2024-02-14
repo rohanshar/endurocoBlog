@@ -70,7 +70,7 @@ async function createNewJsonWithRewrittenFields(inputFilePath, outputFilePath) {
   console.log("New JSON file with rewritten fields created successfully.");
 }
 
-const inputFilePath = path.join(process.cwd(), "joinccdetails_test.json");
+const inputFilePath = path.join(process.cwd(), "joinccdetails.json");
 const outputFilePath = path.join(process.cwd(), "joinccdetails2.json");
 
 createNewJsonWithRewrittenFields(inputFilePath, outputFilePath).catch(
