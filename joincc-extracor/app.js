@@ -58,7 +58,8 @@ async function createMarkdownFiles() {
         new Date()
       ).toISOString();
 
-      const formattedContent = formatContent(article.content2);
+      // const formattedContent = formatContent(article.content2);
+      const formattedContent = article.content2;
 
       const content = `---
 title: "${article.heading2.replace(/"/g, '\\"')}"
