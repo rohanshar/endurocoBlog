@@ -10,15 +10,17 @@ const openai = new OpenAI({
   apiKey: apiKey,
 });
 
-async function rewriteText(text) {
-  // console.log("text for rewrite ", text);
+async function rewriteText(text, markdown = false) {
   try {
+    const prompt = `Please rewrite the following text${
+      markdown ? " in markdown format" : ""
+    }:\n\n${text}`;
     const response = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
       messages: [
         {
           role: "user",
-          content: `Please rewrite the following text:\n\n${text}`,
+          content: prompt,
         },
       ],
       temperature: 0.7,
@@ -27,13 +29,10 @@ async function rewriteText(text) {
       frequency_penalty: 0.0,
       presence_penalty: 0.0,
     });
-    // Assuming the API response structure matches your setup
-    if (response) {
-      // Check if response exists
+    if (response && response.choices && response.choices.length > 0) {
       console.log("rewrite success");
       return response.choices[0].message.content;
     } else {
-      // Handle the case where the response is undefined
       console.error("OpenAI API call failed. Returning empty string.");
       return "";
     }
@@ -42,6 +41,7 @@ async function rewriteText(text) {
     return "";
   }
 }
+
 async function createNewJsonWithRewrittenFields(inputFilePath, outputFilePath) {
   const rawData = fs.readFileSync(inputFilePath);
   const articles = JSON.parse(rawData);
@@ -50,7 +50,7 @@ async function createNewJsonWithRewrittenFields(inputFilePath, outputFilePath) {
     articles.map(async (article) => {
       const heading2 = await rewriteText(article.heading);
       const description2 = await rewriteText(article.description);
-      const content2 = await rewriteText(article.content);
+      const content2 = await rewriteText(article.content, true);
       const link2 = heading2
         .toLowerCase()
         .replace(/\s+/g, "-")
