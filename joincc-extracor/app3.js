@@ -30,12 +30,12 @@ async function downloadImage(url, filepath) {
 async function generateImage(heading, description) {
   try {
     const response = await openai.images.generate({
-      prompt: `${heading}: ${description}`,
+      prompt: `Generate image for a article with this heading and description ${heading}:description- ${description}`,
       n: 1,
+      model: "dall-e-3",
       size: "1024x1024",
-      response_format: "url",
     });
-    return response.data[0].url;
+    return response.data.data[0].url; // Ensure correct path to the image URL
   } catch (error) {
     console.error("Error in generating image with OpenAI:", error);
     return "";
