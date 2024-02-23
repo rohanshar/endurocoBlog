@@ -1,0 +1,5 @@
+I have a blog post with title provided below. Generate a image as a cover photo for it.
+
+How do I calculate my VO2max
+
+Do not use any text in the image 
